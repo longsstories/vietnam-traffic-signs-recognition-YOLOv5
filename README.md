@@ -1,9 +1,9 @@
 # vietnam-traffic-signs-recognition-YOLOv5
 Recognize Traffic Signs using YOLOv5 architecture
 
-#Download the data : https://drive.google.com/file/d/13M6nntnZJacxWQDPfyPcUYFjcb__20HM/view?usp=sharing
+# Download the data : https://drive.google.com/file/d/13M6nntnZJacxWQDPfyPcUYFjcb__20HM/view?usp=sharing
 
-#Set up file data_info.yalm:
+# Set up file data_info.yalm:
 
 train: ../data1/images/train    #path to images/train data
 
